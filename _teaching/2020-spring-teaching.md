@@ -5,7 +5,7 @@ type: "Undergraduate course"
 position: "Teaching Assistant"
 professor: "Jack L. Snyder" 
 vvenue: "Columbia University, Political Science"
-date: "Spring 2019; 2020"
+semester: "Spring 2019; 2020"
 location: "New York, NY, USA"
 ---
 

@@ -5,7 +5,7 @@ type: "Undergraduate course"
 position: "Teaching Assistant"  
 professor: "Severine Autesserre" 
 venue: "Barnard College, Political Science"
-date: "Fall 2018"
+semester: "Fall 2018"
 location: "New York, NY, USA"
 ---
 
