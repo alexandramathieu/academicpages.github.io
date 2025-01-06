@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 position: "Lecturer"
 venue: "Yale University, East Asian Studies; Political Science"
+date: "2025"
 semester: "Spring 2025"
 location: "New Haven, CT, USA"
 ---
