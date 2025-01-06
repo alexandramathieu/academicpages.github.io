@@ -8,12 +8,3 @@ venue: "Columbia University, School of Professional Studies"
 semester: "Summer 2021"
 location: "New York, NY, USA"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
