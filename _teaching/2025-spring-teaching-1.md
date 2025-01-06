@@ -10,11 +10,5 @@ location: "New Haven, CT, USA"
 
 This course serves as an overview of status and prestige in international relations theory and an in-depth look at how status and prestige concerns drive foreign policy decision-making, influence interactions between states, and determine outcomes in global politics. Special attention is paid to how status and status-seeking behavior have impacted policies and regional dynamics in East Asia. The course is designed to develop students’ research and analytical writing skills. Reading materials are theory-driven and multidisciplinary, spanning political science, sociology, psychology, economics, and sports history.
 
-Heading 1
-======
+<iframe src="/Users/alexandramathieu/Documents/GitHub/academicpages.github.io/files/Mathieu_International Status in East Asian Politics_2025 Syllabus.pdf" width="600" height="400"></iframe>
 
-Heading 2
-======
-
-Heading 3
-======
