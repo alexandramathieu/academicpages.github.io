@@ -8,12 +8,3 @@ venue: "Barnard College, Political Science"
 semester: "Fall 2020"
 location: "New York, NY, USA"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
