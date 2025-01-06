@@ -1,8 +1,8 @@
 ---
-title: "International Status in East Asian Politics"
+title: "EAST419 / PLSC131: International Status in East Asian Politics"
 collection: teaching
 type: "Undergraduate course"
-permalink: 
+position: "Lecturer"
 venue: "Yale University, East Asian Studies; Political Science"
 date: "Spring 2025"
 location: "New Haven, CT, USA"
@@ -18,5 +18,3 @@ Heading 2
 
 Heading 3
 ======
-
-# copy file for new teaching experience
