@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Mathieu_Alexandra.jpg"
+  avatar           : Mathieu_Alexandra.jpg
   name             : "Alexandra 'Alex' Mathieu"
   pronouns         : # example: "she/her"  
   bio              : "Political scientist studying international status, nationalism, East Asian security, Japanese culture and society, and political attitudes"

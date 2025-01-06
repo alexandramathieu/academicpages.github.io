@@ -1,11 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am Alexandra Mathieu, a political scientist researching focusing primarily on international relations, Japanese politics, and East Asian security. I received my PhD in Political Science in Feb. 2025 from the Graudate School of Arts and Sciences at Columbia University. My dissertation, "Unpacking International Status in the Japanese Context" addresses three issue areas within the study of international status with the goal of clarifying theoretical gray areas and testing hypotheses that are key pillars in the research program. Specifically, I re-evaluate and reconceptualize the social identity approach to the study of international status, test whether status is distinguishable from individual biases towards/against countries, and clarify the relationship between national pride (in the forms of nationalism and patriotism) and status dissatisfaction. Altogether, the dissertation encapsulates my two fundamental research and academic goals: 1) to understand how non-material factors like beliefs and identities impact political decisionmaking, processes, and outcomes and 2) to challenge the Western-centric bias of the study of international relations using cases and data from East Asia, when possible. 
+
+I am currently the Japan Foundation Postdoctoral Associate of East Asian Studies at Yale University's Council of East Asian Studies, where I am teaching and continuing to polish and refine the papers that make up my dissertation for future publication. 
+
+Outside of academia, I'm a lover of art in all forms and an avid player of video and board games. I'm currently taking swim lessons to work on my admittedly mediocre swim skills, studying Japanese to maintain my fluency, and as part of a year-long NYE challenge...learning amateur magic...
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
