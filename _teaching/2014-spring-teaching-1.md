@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "International Status in East Asian Politics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: 
+venue: "Yale University, East Asian Studies; Political Science"
+date: "Spring 2025"
+location: "New Haven, CT, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course serves as an overview of status and prestige in international relations theory and an in-depth look at how status and prestige concerns drive foreign policy decision-making, influence interactions between states, and determine outcomes in global politics. Special attention is paid to how status and status-seeking behavior have impacted policies and regional dynamics in East Asia. The course is designed to develop students’ research and analytical writing skills. Reading materials are theory-driven and multidisciplinary, spanning political science, sociology, psychology, economics, and sports history.
 
 Heading 1
 ======
@@ -18,3 +18,5 @@ Heading 2
 
 Heading 3
 ======
+
+# copy file for new teaching experience
