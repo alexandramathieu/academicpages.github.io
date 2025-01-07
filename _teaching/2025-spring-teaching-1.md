@@ -3,6 +3,7 @@ title: "EAST419 / PLSC131: International Status in East Asian Politics"
 collection: teaching
 type: "Undergraduate course"
 venue: "Yale University, East Asian Studies; Political Science"
+date: "2025"
 location: "New Haven, CT, USA"
 ---
 * Semester: Spring 2025
