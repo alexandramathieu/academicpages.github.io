@@ -6,6 +6,6 @@ professor: "Beth Hirschhorn"
 venue: "Columbia University, School of Professional Studies"
 location: "New York, NY, USA"
 ---
-Semester: Summer Session
-Role: Teaching Assistant
-Synopsis: An introduction course on marketing.
+* Semester: Summer Session
+* Role: Teaching Assistant
+* Synopsis: An introduction course on marketing.

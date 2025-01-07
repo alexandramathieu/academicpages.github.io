@@ -6,6 +6,6 @@ professor: "Kimberly Marten"
 venue: "Barnard College, Political Science"
 location: "New York, NY, USA"
 ---
-Semester: Fall 2020
-Role: Teaching Assistant
-Synopsis: Introductory course covering the primary theories, frameworks, and topics to analyze international relations.
+* Semester: Fall 2020
+* Role: Teaching Assistant
+* Synopsis: Introductory course covering the primary theories, frameworks, and topics to analyze international relations.
