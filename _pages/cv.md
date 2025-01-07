@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[View CV](files/Alexandra_Mathieu_CV.pdf)
+<iframe src="files/Alexandra_Mathieu_CV.pdf" width="600" height="400"></iframe>
