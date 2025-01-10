@@ -4,9 +4,9 @@ collection: teaching
 type: "Undergraduate course"
 professor: "Sheri Berman" 
 venue: "Barnard College, Political Science"
-date: "2019-09"
+date: "2019"
 location: "New York, NY, USA"
 ---
-* Semester: Fall 2019
+* Semester: Fall
 * Role: Teaching Assistant
 * Synopsis: Using European history, this course discusses and analyzes theories of democracy and autocracy formation and consolidation, as well as the processes of democratic backsliding.

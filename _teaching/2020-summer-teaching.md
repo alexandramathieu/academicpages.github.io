@@ -4,7 +4,7 @@ collection: teaching
 type: "Professional studies course"
 professor: "Beth Hirschhorn"
 venue: "Columbia University, School of Professional Studies"
-date: "2020-06"
+date: "2020"
 location: "New York, NY, USA"
 ---
 * Semester: Summer Session
