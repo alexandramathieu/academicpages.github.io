@@ -9,4 +9,4 @@ location: "New York, NY, USA"
 ---
 * Semester: Fall 2019
 * Role: Teaching Assistant
-* Synopsis: Course analyzing theories related to the development of modern democracies and autocratic regimes in Western Europe.
+* Synopsis: Using European history, this course discusses and analyzes theories of democracy and autocracy formation and consolidation, as well as the processes of democratic backsliding.
