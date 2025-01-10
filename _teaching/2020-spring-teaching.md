@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 professor: "Jack L. Snyder" 
 venue: "Columbia University, Political Science"
+date: "2020-01"
 location: "New York, NY, USA"
 ---
 * Semester: Spring 2019 and Spring 2020

@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 professor: "Sheri Berman" 
 venue: "Barnard College, Political Science"
+date: "2019-09"
 location: "New York, NY, USA"
 ---
 * Semester: Fall 2019
