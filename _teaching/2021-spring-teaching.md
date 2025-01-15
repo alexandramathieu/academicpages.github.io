@@ -5,7 +5,7 @@ type: "Undergraduate course"
 position: "Teaching Assistant"
 professor: "Thomas J. Christensen" 
 venue: "Columbia University, Political Science"
-date: "2021"
+date: "2021-01-01"
 location: "New York, NY, USA"
 ---
 * Semester: Spring

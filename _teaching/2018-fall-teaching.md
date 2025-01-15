@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 professor: "Severine Autesserre" 
 venue: "Barnard College, Political Science"
-date: "2018"
+date: "2018-09-01"
 location: "New York, NY, USA"
 ---
 * Semester: Fall

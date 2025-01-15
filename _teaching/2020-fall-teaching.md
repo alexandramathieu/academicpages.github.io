@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 professor: "Kimberly Marten" 
 venue: "Barnard College, Political Science"
-date: "2020"
+date: "2020-09-01"
 location: "New York, NY, USA"
 ---
 * Semester: Fall
