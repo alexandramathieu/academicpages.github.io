@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[View CV][def]
-
-[def]: http://alexandramathieu.github.io/website/files/Alexandra_Mathieu_CV.pdf
+<iframe src="alexandramathieu.github.io/website/files/Alexandra_Mathieu_CV.pdf" width="100%" height="500px"></iframe>
