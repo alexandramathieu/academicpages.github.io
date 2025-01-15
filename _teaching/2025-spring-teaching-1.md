@@ -12,4 +12,4 @@ location: "New Haven, CT, USA"
 
 [View Syllabus][def]
 
-[def]: alexandramathieu.github.io/website/files/Mathieu_Intl_Status_EAPol_Syllabus.pdf
+[def]: http://alexandramathieu.github.io/website/files/Mathieu_Intl_Status_EAPol_Syllabus.pdf
