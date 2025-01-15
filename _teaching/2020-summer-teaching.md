@@ -7,6 +7,6 @@ venue: "Columbia University, School of Professional Studies"
 date: "2020-06-01"
 location: "New York, NY, USA"
 ---
-* Semester: Summer Session
+* Semester: Summer
 * Role: Teaching Assistant
 * Synopsis: An introduction course on marketing.
